@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
+    font-family: Montserrat, sans-serif;
+    color: #393939;
+    text-decoration: none;
+}
+
+.Footer-content {
+    padding: 40px 80px 40px 80px;
+    height: 300px;
+    background-color: #242424;
+}
+
+.Footer-content h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Footer-setting {
+    background-color: #0F0F0F;
+    height: 100px;
+}
